@@ -6,9 +6,26 @@
 Welcome to Warming Up Design Toolkit documentation!
 ====================================================
 
+
+This documentation describes how to use the WarmingUp Design Toolkit. The toolkit can be used to design future proof
+district heating systems. The toolkit is developed in the collaborative
+research program WarmingUp. More info can be found on  https://warmingup.info/designtoolkit/
+The explanation on how to use the WarmingUp Design toolkit will be done via the different workflows,
+which are available for the use to design district heating systems. The following
+workflows are available:
+
+*  Conceptual design of a district heating system
+*  Pipe diameter optimisation
+*  Topology optimisation
+*  Buffer size optimisation
+*  Temperature minimization
+
+these work flows are further described in there respective sections
+
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
+
+   conceptual
 
 
 

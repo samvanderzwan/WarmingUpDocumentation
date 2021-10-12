@@ -14,23 +14,32 @@ The explanation on how to use the WarmingUp Design toolkit will be done via the 
 which are available for the use to design district heating systems. The following
 workflows are available:
 
-*  Conceptual design of a district heating system
-*  Pipe diameter optimisation
-*  Topology optimisation
-*  Buffer size optimisation
-*  Temperature minimization
-
-these work flows are further described in there respective sections
-
-.. toctree::
-   :maxdepth: 1
-
-   conceptual
-
+*  :ref:`Conceptual_design`
+*  :ref:`diam_opti`
+*  :ref:`topo_opti`
+*  :ref:`buffer_sizing`
+*  :ref:`sup_temp_min`
 
 
 Indices and tables
 ==================
+.. toctree::
+   :maxdepth: 1
+
+   conceptual
+   diaoptimisation
+   topooptimisation
+   buffersize
+   tempminimisation
+   CFOverlay/index
+   CF/index
+   CHESS/index
+   TOPO/index
+   ESDLmapeditor/index
+   KPIcalculator/index
+   MPC/index
+   WANDA/index
+
 
 * :ref:`genindex`
 * :ref:`modindex`

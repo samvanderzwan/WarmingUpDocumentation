@@ -17,8 +17,6 @@ The explanation on how to use the computational framework will be explained in t
 * Scenario results comparison
 
 
-Indices and tables
-==================
 .. toctree::
    :caption: table of contents
    :maxdepth: 1

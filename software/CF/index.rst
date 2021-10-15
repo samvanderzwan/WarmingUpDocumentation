@@ -26,6 +26,6 @@ The explanation on how to use the computational framework will be explained in t
    model_input_adjustment
    scenario_composition
    results_viewing
-   scenarios_results_comparison
+   scenario_results_comparison
 
 

@@ -23,22 +23,12 @@ workflows are available:
 
 Indices and tables
 ==================
+
 .. toctree::
    :maxdepth: 1
 
-   conceptual
-   diaoptimisation
-   topooptimisation
-   buffersize
-   tempminimisation
-   CFOverlay/index
-   CF/index
-   CHESS/index
-   TOPO/index
-   ESDLmapeditor/index
-   KPIcalculator/index
-   MPC/index
-   WANDA/index
+   workflows/index
+   software/index
 
 
 * :ref:`genindex`

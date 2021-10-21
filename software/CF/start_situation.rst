@@ -2,7 +2,7 @@ Start situation: basic screen layout
 ====================================================
 
 .. important::
-    This sample documentation was generated on previous help doc **2-aboutTaskGuidance**, needs to be updated.
+    Ready for review
 
 The explorer
 ---------------------------------------------
@@ -15,7 +15,7 @@ The explorer have the following elements: the drop-down menus, side panels, tabs
   :width: 800
   :alt: Explorer overview
 
-  Explorer overview (need to add highlight boxes)
+  Explorer overview
 
 In the middle of the explorer, the Map tab is open by default.
 It provides a overview map of the study area.

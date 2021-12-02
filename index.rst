@@ -14,6 +14,7 @@ The explanation on how to use the WarmingUp Design toolkit will be done via the 
 which are available for the use to design district heating systems. The following
 workflows are available:
 
+*  :ref:`installation`
 *  :ref:`Conceptual_design`
 *  :ref:`diam_opti`
 *  :ref:`topo_opti`

@@ -1,6 +1,6 @@
-.. _diam_opti:
+.. _buffer_sizing:
 
-Diameter optimization
+Buffer sizing
 ===========================
 
 |image0|

@@ -1,3 +1,8 @@
+.. _diam_opti:
+
+Diameter optimization
+==========================
+
 **What question scan you answer with this workflow?**
 
 1. Question 1

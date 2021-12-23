@@ -1,3 +1,8 @@
+.. _diam_opti:
+
+Diameter optimization
+===========================
+
 |image0|
 
 https://peintinger.com/?p=365

@@ -1,3 +1,4 @@
+.. _Installation:
 How to install the WarmingUp Design Toolkit
 ===========================================
 

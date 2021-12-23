@@ -1,7 +1,3 @@
-.. _buffer_sizing:
-
-Buffer sizing
-====================================================
 |image0|
 
 https://peintinger.com/?p=365
@@ -272,6 +268,3 @@ back in spot B?
 .. |image17| image:: media/image22.png
    :width: 0.54167in
    :height: 0.54167in
-
-
-

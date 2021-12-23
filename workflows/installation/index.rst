@@ -1,5 +1,3 @@
-.. _Installation:
-
 How to install the WarmingUp Design Toolkit
 ===========================================
 
@@ -34,15 +32,15 @@ Step 5. Go into the folder, cf-commons\\shared\\ and start
 WiseDesignToolkit.cmd. This script will update the WarmingUp Design
 toolkit when required and then start it.
 
-.. |image0| image:: media/unzip.png
+.. |image0| image:: media/image1.png
    :width: 2.76165in
    :height: 2.21795in
-.. |image1| image:: media/unzipped.png
+.. |image1| image:: media/image2.png
    :width: 6.26806in
    :height: 2.22917in
-.. |image2| image:: media/install_finished.png
+.. |image2| image:: media/image3.png
    :width: 6.26806in
    :height: 2.71319in
-.. |image3| image:: media/git_helper.png
+.. |image3| image:: media/image4.png
    :width: 3.87534in
    :height: 4.22537in

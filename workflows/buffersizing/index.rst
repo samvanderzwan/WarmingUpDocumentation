@@ -50,13 +50,13 @@ To achieve these results we use the following **workflow** and
 
 
 +------------+----------------------------------------------------------------------------------------------------------------------------------+
-|  |image2|  | In the ESDL MapEditor, we draw our existing or conceptual network in which we would like to add a buffer.                        |
-|            | Furthermore, we add the specifications of our buffer, heat producer(s), pipe(s) and consumer(s) and the network temperatures.    |
+|  |image2|  | - In the ESDL MapEditor, we draw our existing or conceptual network in which we would like to add a buffer.                      |
+|            | - Furthermore, we add the specifications of our buffer, heat producer(s), pipe(s) and consumer(s) and the network temperatures.  |
 +------------+----------------------------------------------------------------------------------------------------------------------------------+
-| |image3|   | The network is loaded into the computational framework (CF), which allows us to add operational bounds                           |
-|            | (e.g. desired network pressures and velocities), prioritize producers and select the optimization goal.                          | 
-|            | Finally, the CF allows the running of the optimization code from the Model Predictive Controller (MPC).                          | 
-|            | Results are presented in three views: KPI viewer (optional/unsure), data viewer and the optimisation HTML.                       |
+| |image3|   | - The network is loaded into the computational framework (CF), which allows us to add operational bounds                         |
+|            | - (e.g. desired network pressures and velocities), prioritize producers and select the optimization goal.                        | 
+|            | - Finally, the CF allows the running of the optimization code from the Model Predictive Controller (MPC).                        | 
+|            | - Results are presented in three views: KPI viewer (optional/unsure), data viewer and the optimisation HTML.                     |
 +------------+----------------------------------------------------------------------------------------------------------------------------------+
 |            | If needed, alternate specifications can be set in CF and the differences between results can be interpreted in the three views.  |
 +------------+----------------------------------------------------------------------------------------------------------------------------------+

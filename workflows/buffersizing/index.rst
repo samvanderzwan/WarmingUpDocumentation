@@ -36,7 +36,7 @@ To achieve these results we use the following **workflow** and
 
 
 +------------+----------------------------------------------------------------------------------------------------------------------------------+
-|            |                                                                                                                                  |
+|    k       |                                                                                                                                  |
 +============+==================================================================================================================================+
 |  |image2|  | - In the ESDL MapEditor, we draw our existing or conceptual network in which we would like to add a buffer.                      |
 |            | - Furthermore, we add the specifications of our buffer, heat producer(s), pipe(s) and consumer(s) and the network temperatures.  |

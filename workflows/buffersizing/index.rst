@@ -35,21 +35,9 @@ To achieve these results we use the following **workflow** and
 |image1|
 
 
-+------------------------+------------+----------+----------+
-| Header row, column 1   | Header 2   | Header 3 | Header 4 |
-| (header rows optional) |            |          |          |
-+========================+============+==========+==========+
-| body row 1, column 1   | column 2   | column 3 | column 4 |
-+------------------------+------------+----------+----------+
-| body row 2             | Cells may span columns.          |
-+------------------------+------------+---------------------+
-| body row 3             | Cells may  | - Table cells       |
-+------------------------+ span rows. | - contain           |
-| body row 4             |            | - body elements.    |
-+------------------------+------------+---------------------+
-
-
 +------------+----------------------------------------------------------------------------------------------------------------------------------+
+|            |                                                                                                                                  |
++============+==================================================================================================================================+
 |  |image2|  | - In the ESDL MapEditor, we draw our existing or conceptual network in which we would like to add a buffer.                      |
 |            | - Furthermore, we add the specifications of our buffer, heat producer(s), pipe(s) and consumer(s) and the network temperatures.  |
 +------------+----------------------------------------------------------------------------------------------------------------------------------+
@@ -57,7 +45,7 @@ To achieve these results we use the following **workflow** and
 |            | - (e.g. desired network pressures and velocities), prioritize producers and select the optimization goal.                        | 
 |            | - Finally, the CF allows the running of the optimization code from the Model Predictive Controller (MPC).                        | 
 |            | - Results are presented in three views: KPI viewer (optional/unsure), data viewer and the optimisation HTML.                     |
-+------------+----------------------------------------------------------------------------------------------------------------------------------+
++            +----------------------------------------------------------------------------------------------------------------------------------+
 |            | If needed, alternate specifications can be set in CF and the differences between results can be interpreted in the three views.  |
 +------------+----------------------------------------------------------------------------------------------------------------------------------+
 

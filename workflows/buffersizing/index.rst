@@ -1,3 +1,8 @@
+.. _buffer_sizing:
+
+Buffer sizing
+====================================================
+
 |image0|
 
 https://peintinger.com/?p=365

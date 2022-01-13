@@ -6,7 +6,7 @@ Workflows
 
    installation/index
    conceptual/index
-   exisiting/index
+   existing/index
    diaoptimization/index
    topooptimization/index
    buffersizing/index

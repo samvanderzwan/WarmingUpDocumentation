@@ -1,8 +1,3 @@
-.. _buffer_sizing:
-
-Buffer sizing
-===========================
-
 |image0|
 
 https://peintinger.com/?p=365
@@ -31,8 +26,8 @@ following questions:
 -  (bekijken of het handig is om de vraag in deze tutorial mee te nemen
    of dat er een aparte tutorial voor moet komen)
 
-What pipe topology and sizes are needed for your network, with or
-without a buffer?
+   What pipe topology and sizes are needed for your network, with or
+   without a buffer?
 
 To achieve these results we use the following **workflow** and
 **packages**:
@@ -225,51 +220,51 @@ back in spot B?
 .. |image1| image:: media/image2.png
    :width: 5.88542in
    :height: 0.90625in
-.. |image2| image:: media/image2.png
-   :width: 0.63092in
-   :height: 0.55899in
-.. |image3| image:: media/image2.png
-   :width: 0.62400in
-   :height: 0.62234in
-.. |image4| image:: media/image3.png
+.. |image2| image:: media/image3.png
+   :width: 0.63333in
+   :height: 0.55972in
+.. |image3| image:: media/image4.png
+   :width: 0.62639in
+   :height: 0.62014in
+.. |image4| image:: media/image5.png
    :width: 0.55970in
    :height: 0.55970in
-.. |image5| image:: media/image5.png
+.. |image5| image:: media/image7.png
    :width: 0.63200in
    :height: 0.63200in
-.. |image6| image:: media/image7.png
+.. |image6| image:: media/image9.png
    :width: 0.52239in
    :height: 0.52239in
-.. |image7| image:: media/image16.png
+.. |image7| image:: media/image18.png
    :width: 1.04167in
    :height: 0.50000in
-.. |image8| image:: media/image17.png
+.. |image8| image:: media/image19.png
    :width: 0.20833in
    :height: 0.23958in
-.. |image9| image:: media/image18.png
+.. |image9| image:: media/image20.png
    :width: 0.20833in
    :height: 0.20833in
-.. |image10| image:: media/image19.png
+.. |image10| image:: media/image21.png
    :width: 0.21701in
    :height: 0.20833in
-.. |image11| image:: media/image20.png
+.. |image11| image:: media/image22.png
    :width: 0.17708in
    :height: 0.19792in
-.. |image12| image:: media/image21.png
+.. |image12| image:: media/image23.png
    :width: 0.17708in
    :height: 0.15588in
-.. |image13| image:: media/image22.png
+.. |image13| image:: media/image24.png
    :width: 0.54167in
    :height: 0.54167in
-.. |image14| image:: media/image13.png
+.. |image14| image:: media/image15.png
    :width: 0.75000in
    :height: 0.75000in
-.. |image15| image:: media/image24.png
+.. |image15| image:: media/image26.png
    :width: 5.15672in
    :height: 0.24726in
-.. |image16| image:: media/image16.png
+.. |image16| image:: media/image18.png
    :width: 1.04167in
    :height: 0.50000in
-.. |image17| image:: media/image22.png
+.. |image17| image:: media/image24.png
    :width: 0.54167in
    :height: 0.54167in

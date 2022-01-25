@@ -1,6 +1,6 @@
 @echo off
-SET "DOCXIN=%HELP I want to simulate an existing network.docx"
-SET "rst_out=%existing.rst"
+SET "DOCXIN=%WarmingUp Documentation.docx"
+SET "rst_out=%index.rst"
 SET "image_folder=%.\media\*.*"
 pandoc -f docx "%DOCXIN%" -t rst -o "%rst_out%"
 mkdir temp

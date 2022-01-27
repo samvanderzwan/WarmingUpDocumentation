@@ -1,3 +1,5 @@
+.. _Conceptual_design:
+
 Creating a simple network:
 ==========================
 

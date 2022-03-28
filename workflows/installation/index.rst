@@ -1,6 +1,6 @@
 .. _Installation:
 
-How to install the WarmingUp Design Toolkit
+I want to install the toolkit
 ===========================================
 
 This paragraph describes how to install the design toolkit

@@ -1,48 +1,30 @@
-.. _Installation:
-
-I want to install the toolkit
+How to install the WarmingUp Design Toolkit
 ===========================================
 
-This paragraph describes how to install the design toolkit
-----------------------------------------------------------
+This section describes how to install the design toolkit locally
 
-Step 1 Download the WarmingUp Designtoolkit from ??
-
-Step 2 Unpack the zip file in the folder you want to install the
-WarmingUp Design Toolkit
-
-|image0|
-
-|image1|
-
-Step 3 If you have not installed Docker or Matlab Runtime libraries run
-install\_dependencies.bat. See here for the steps which you need to take
-here.
-
-Step 4 Run install.bat. This script will download the designtoolkit and
-install the required packages. If it is finished, check if there were
-errors, if not press any key to finish it.
-
-|image2|
-
-Step 4a if below window is shown, select no helper, put a check at
-Always use this from now and press Ok
-
-|image3|
-
-Step 5. Go into the folder, cf-commons\\shared\\ and start
-WiseDesignToolkit.cmd. This script will update the WarmingUp Design
-toolkit when required and then start it.
-
-.. |image0| image:: media/image1.png
-   :width: 2.76165in
-   :height: 2.21795in
-.. |image1| image:: media/image2.png
-   :width: 6.26806in
-   :height: 2.22917in
-.. |image2| image:: media/image3.png
-   :width: 6.26806in
-   :height: 2.71319in
-.. |image3| image:: media/image4.png
-   :width: 3.87534in
-   :height: 4.22537in
++-----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 1   | Install the ESDL mapeditor and auxiliary services. This required special IT knowledge. For instructions see: https://github.com/ESDLMapEditorESSIM/docker-toolsuite   |
++=====+=======================================================================================================================================================================+
+| 2   | Download the install file from: https://www.warmingup.info/design-toolkit-beta                                                                                        |
++-----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 3   | Unpack the zip file in the folder you want to install the WarmingUp Design Toolkit                                                                                    |
++-----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 4   | Run the install depencies.bat script to install the required dependencies (Docker and Matlabruntime 2019b)                                                            |
++-----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 5   | Run the install.bat script. This will download the toolkit and install the required python packages                                                                   |
+|     |                                                                                                                                                                       |
+|     | If below screen pops up select no-help                                                                                                                                |
+|     |                                                                                                                                                                       |
+|     | Put a check mark at: Always use this from now on”                                                                                                                     |
+|     |                                                                                                                                                                       |
+|     | And press select                                                                                                                                                      |
++-----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 6   | Run the WiseDesignToolkit.cmd in the cf-commons\\shared\\ folder. This will start the toolkit and you should see this screen in your browser                          |
++-----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 7   | In the Desing toolkit open the settings from the top                                                                                                                  |
++-----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 8   | Set the ESDL mapeditor, ESDL drive, ESDL drive token url to the site where you have installed it and click on save.                                                   |
++-----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 9   | Now the toolkit is installed and you can start working with it                                                                                                        |
++-----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+

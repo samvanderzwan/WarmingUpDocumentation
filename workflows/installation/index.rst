@@ -7,7 +7,7 @@ This section describes how to install the design toolkit locally
 
 +-----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | 1   | Install the ESDL mapeditor and auxiliary services. This required special IT knowledge. For instructions see: https://github.com/ESDLMapEditorESSIM/docker-toolsuite   |
-+=====+=======================================================================================================================================================================+
++-----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | 2   | Download the install file from: https://www.warmingup.info/design-toolkit-beta                                                                                        |
 +-----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | 3   | Unpack the zip file in the folder you want to install the WarmingUp Design Toolkit                                                                                    |
@@ -18,7 +18,7 @@ This section describes how to install the design toolkit locally
 |     |                                                                                                                                                                       |
 |     | If below screen pops up select no-help                                                                                                                                |
 |     |                                                                                                                                                                       |
-|     | Put a check mark at: Always use this from now on”                                                                                                                     |
+|     | Put a check mark at: "Always use this from now on”                                                                                                                     |
 |     |                                                                                                                                                                       |
 |     | And press select                                                                                                                                                      |
 |     |                                                                                                                                                                       |

@@ -13,7 +13,7 @@ test
 +-----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | 3   | Unpack the zip file in the folder you want to install the WarmingUp Design Toolkit                                                                                    |
 +-----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 4   | Run the install depencies.bat script to install the required dependencies (Docker and Matlabruntime 2019b)                                                            |
+| 4   | Run the install depencies.bat script to install the required dependencies (Docker and Matlabruntime 2019a)                                                            |
 +-----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | 5   | Run the install.bat script. This will download the toolkit and install the required python packages                                                                   |
 |     |                                                                                                                                                                       |

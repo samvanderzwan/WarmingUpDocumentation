@@ -18,7 +18,7 @@ This section describes how to install the design toolkit locally
 |     |                                                                                                                                                                       |
 |     | If below screen pops up select no-help                                                                                                                                |
 |     |                                                                                                                                                                       |
-|     | Put a check mark at: "Always use this from now on”                                                                                                                     |
+|     | Put a check mark at: "Always use this from now on”                                                                                                                    |
 |     |                                                                                                                                                                       |
 |     | And press select                                                                                                                                                      |
 |     |                                                                                                                                                                       |

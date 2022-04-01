@@ -4,6 +4,7 @@ How to install the WarmingUp Design Toolkit
 ===========================================
 
 This section describes how to install the design toolkit locally
+test
 
 +-----+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | 1   | Install the ESDL mapeditor and auxiliary services. This required special IT knowledge. For instructions see: https://github.com/ESDLMapEditorESSIM/docker-toolsuite   |

@@ -29,7 +29,8 @@ questions:
    demand? <#how-to-change-the-imported-heat-demand>`__
 
 This tutorial uses the ESDL created in the tutorial: `I want to create a
-network <https://warmingup-designtoolkitdocumentation.readthedocs-hosted.com/en/latest/workflows/conceptual/index.html>`__
+network <https://warmingup-designtoolkitdocumentation.readthedocs-hosted.com/en/latest/workflows/conceptual/index.html>`__.
+Alternatively, you can also use the :download:`course model ESDL <examples/coursemodel2.esdl>`.
 
 To achieve these results the following workflows and packages are used:
 

@@ -29,16 +29,17 @@ questions:
    demand? <#how-to-change-the-imported-heat-demand>`__
 
 This tutorial uses the ESDL created in the tutorial: `I want to create a
-network <https://warmingup-designtoolkitdocumentation.readthedocs-hosted.com/en/latest/workflows/conceptual/index.html>`__.
-Alternatively, you can also use the :download:`course model ESDL <examples/coursemodel2.esdl>`.
+network <https://warmingup-designtoolkitdocumentation.readthedocs-hosted.com/en/latest/workflows/conceptual/index.html>`__
 
 To achieve these results the following workflows and packages are used:
 
 +------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | |image0|   | The network is loaded into the Computational Framework (CF), which allows to alter heat demand, simulate and optimize heat networks, define (sub) scenario's and related *modifiers*.   |
-+============+=========================================================================================================================================================================================+
-| |image1|   | In the CF environment, CHESS is used to simulate the network.                                                                                                                           |
 +------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
++------------+-----------------------------------------------------------------+
+| |image1|   | In the CF environment, CHESS is used to simulate the network.   |
++------------+-----------------------------------------------------------------+
 
 If these packages haven’t been installed yet, please follow the
 tutorial: `I want to install the
@@ -47,7 +48,7 @@ toolkit <https://warmingup-designtoolkitdocumentation.readthedocs-hosted.com/en/
 +-----------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | .. rubric:: 1         | .. rubric:: How to import an existing network in the computational framework (CF)                                                                                                                                                                                             |
 |    :name: section     |    :name: how-to-import-an-existing-network-in-the-computational-framework-cf                                                                                                                                                                                                 |
-+=======================+===============================================================================================================================================================================================================================================================================+
++-----------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | 1.1                   | Start the WarmingUP Design Toolkit by clicking WiseDesignToolkit.cmd in the installation folder. Your start screen looks like this:                                                                                                                                           |
 |                       |                                                                                                                                                                                                                                                                               |
 |                       | |image2|                                                                                                                                                                                                                                                                      |
@@ -253,11 +254,11 @@ toolkit <https://warmingup-designtoolkitdocumentation.readthedocs-hosted.com/en/
 +-----------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 .. |image0| image:: media/image1.png
-   :width: 0.61940in
-   :height: 0.64861in
+   :width: 0.98681in
+   :height: 1.03333in
 .. |image1| image:: media/image2.png
-   :width: 0.97761in
-   :height: 0.64793in
+   :width: 0.97986in
+   :height: 0.64653in
 .. |image2| image:: media/image3.png
    :width: 4.95283in
    :height: 2.87162in
@@ -271,8 +272,8 @@ toolkit <https://warmingup-designtoolkitdocumentation.readthedocs-hosted.com/en/
    :width: 5.65694in
    :height: 2.98125in
 .. |image6| image:: media/image7.png
-   :width: 4.25974in
-   :height: 4.32468in
+   :width: 5.63542in
+   :height: 5.72360in
 .. |image7| image:: media/image8.png
    :width: 5.65460in
    :height: 3.15761in
@@ -283,11 +284,11 @@ toolkit <https://warmingup-designtoolkitdocumentation.readthedocs-hosted.com/en/
    :width: 3.52708in
    :height: 7.22083in
 .. |image10| image:: media/image11.png
-   :width: 5.63481in
-   :height: 1.64583in
+   :width: 5.64722in
+   :height: 2.34653in
 .. |image11| image:: media/image12.png
-   :width: 2.11948in
-   :height: 3.52464in
+   :width: 2.12014in
+   :height: 3.52708in
 .. |image12| image:: media/image13.png
    :width: 4.34891in
    :height: 3.80597in

@@ -1,7 +1,7 @@
 .. _Conceptual_design:
 
 I want to create a network
-==============================
+==========================
 
 Tested for version *22.2.0-g28bd138-main* of the ESDL MapEditor.
 
@@ -257,8 +257,8 @@ To achieve these results the following workflows and packages are used:
 +----------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 .. |image0| image:: media/image1.png
-   :width: 0.87500in
-   :height: 0.90625in
+   :width: 0.87361in
+   :height: 0.90694in
 .. |image1| image:: media/image2.png
    :width: 5.67153in
    :height: 2.79572in

@@ -5,7 +5,7 @@ Three workflows utilize advanced control based on Model Predictive
 Control (MPC) under the hood. MPC is an optimization approach that
 considers operational aspects over a time horizon. These workflows are
 briefly described below, whereas more background information on the
-algorithms used can be found here: xxx
+algorithms used can be found here: :ref:`mpc_background`
 
 |image0|
 

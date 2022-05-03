@@ -1,3 +1,5 @@
+.. _Conceptual_design:
+
 I want to create a network
 ==========================
 

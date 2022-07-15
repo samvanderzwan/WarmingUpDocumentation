@@ -1,11 +1,9 @@
-.. Warming Up Documentation documentation master file, created by
-   sphinx-quickstart on Thu Oct  7 09:54:04 2021.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+Project Overlay
+=====================
 
-Computational framework Overlay
-====================================================
-
+The project overlay is an application written in Python which is used as start point for the design toolkit. 
+It is used to start the different parts of the WarmingUp design toolkit (ESDL Map editor, CF, KPI dashboard) and as 
+project manager for the WarmingUp design toolkit.
 
 .. toctree::
    :maxdepth: 1

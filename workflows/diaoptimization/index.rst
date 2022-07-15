@@ -10,8 +10,6 @@ tutorial shows the steps to find the answer to the following questions:
 
 1) How to minimize pipe sizing in the network?
 
-2) 
-
 This tutorial builds upon the preceding tutorial topic ‘I want to
 simulate an existing network’, see `I want to simulate an existing
 network — Warming Up Design toolkit 0.3 documentation
@@ -21,16 +19,18 @@ To achieve these results the following packages are used:
 
 +------------+--------------------------------------------------------------+
 | |image0|   | Within Computational Framework the topo-optimizer is used.   |
++============+==============================================================+
 +------------+--------------------------------------------------------------+
 
 +------------+-----------------------------------------------------------------------------+
 | |image1|   | Within the Computational Framework CHESS is used to simulate the network.   |
++============+=============================================================================+
 +------------+-----------------------------------------------------------------------------+
 
 +-----------+------------------------------------------------------------------------------------------------------------------------------------------+
 | \ **1**   | .. rubric:: **How to minimize pipe sizing in the network?**                                                                              |
 |           |    :name: how-to-minimize-pipe-sizing-in-the-network                                                                                     |
-+-----------+------------------------------------------------------------------------------------------------------------------------------------------+
++===========+==========================================================================================================================================+
 | 1.1       | | 1) Go to Optimize-> Pipe layout in the Tasks panel.                                                                                    |
 |           | | 2) Click on the ‘Simulation settings’ tab                                                                                              |
 |           |                                                                                                                                          |

@@ -31,6 +31,41 @@ CHESS rule-based controller is used as a standard basic control of
 Design Toolkit. User can assign the merit-order priority of sources and
 demands allocation for operating the heat networks.
 
+CHESS ATES module - ROSIM 
+==============================
+
+In high temperature Aquifer Thermal Energy Storage (HT-ATES) hot water is stored in summer 
+when excess hot water is available, from for instance a geothermal well or an industrial process. 
+The injected hot water is produced back in winter. Some of the thermal energy is lost in this process 
+by interaction with the subsurface rocks and ground water already present in the pores. 
+The CHESS ATES module predicts the temperature of the produced water based on characteristics of 
+the subsurface and past water injection and production schedule. This is done with TNO in-house 
+developed software (ROSIM making use of Doubletcalc3D). 
+
+ROSIM creates a 3D subsurface model, well model and flow model, which are input for the subsequent 
+flow simulation using DoubletCalc3D. The subsurface model is a layer-cake model, which is penetrated 
+by vertical, slanted or horizontal wells. Doubletcalc3D is a 3 dimensional extension of existing tools
+for 1D and 2D simulation at TNO . It is a dedicated single phase simulator which enables the numerical 
+simulation of temperature and pressure development using temperature dependent density and viscosity. 
+It is based on a staggered coupling of a steady state solution for the pressure and flow field, 
+coupled to a transient solution of the thermal field. The flow and thermal field are solved with a 
+finite volume finite difference formulation (cf. Pluymaekers et al., 2016; Lipsey et al., 2016). 
+For the flow and thermal solution the model has been benchmarked with Eclipse for 2D flow problems. 
+
+For CHESS a version of ROSIM was created that uses a layer cake model with constant properties 
+(thickness, porosity, permeability, et al.) per layer. The model contains about 60.000 cells 
+with local horizontal grid refinement close to the hot well. In vertical direction the model 
+comprises the reservoir and under- and overburden. An example of the simulation grid is shown 
+below. The CHESS ROSIM version can be run per time step (of variable length) and can also go 
+back in time for scenario testing. The temperature of the produced water is the main output of the 
+ATES module used by CHESS. 
+
+|image1|
+
 .. |image0| image:: media/image1.png
+   :width: 5.19902in
+   :height: 3.45833in
+   
+.. |image1| image:: media/image2.png
    :width: 5.19902in
    :height: 3.45833in

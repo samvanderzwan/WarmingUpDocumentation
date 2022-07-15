@@ -15,7 +15,6 @@ This document links you the documentation and background information on the diff
    HEATMATCHER/index
    TOPO/index
    WANDA/index
-   heatmatcher/index
 
 
 

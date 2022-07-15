@@ -1,4 +1,4 @@
-.. _Exisiting:
+.. _Existing:
 
 I want to simulate an existing network
 ======================================

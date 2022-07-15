@@ -16,11 +16,12 @@ workflows are available:
 
 *  :ref:`Installation`
 *  :ref:`Conceptual_design`
-*  :ref:`Exisiting`
+*  :ref:`Existing`
 *  :ref:`diam_opti`
 *  :ref:`topo_opti`
 *  :ref:`buffer_sizing`
 *  :ref:`sup_temp_min`
+*  :ref:`market_price`
 
 
 Indices and tables

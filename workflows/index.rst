@@ -11,6 +11,7 @@ Workflows
    topooptimization/index
    buffersizing/index
    tempminimization/index
+   marketprice/index
 
 
 

@@ -1,11 +1,7 @@
-.. Warming Up Documentation documentation master file, created by
-   sphinx-quickstart on Thu Oct  7 09:54:04 2021.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 ESDL mapeditor
 ====================================================
-
+The ESDL mapeditor is used as front-end gui for the drawing of the network.
+User manual and documentation of the ESDL mapedtior can be found on: https://esdl-mapeditor-documentation.readthedocs.io/  
 
 .. toctree::
    :maxdepth: 1

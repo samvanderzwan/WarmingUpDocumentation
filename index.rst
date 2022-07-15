@@ -23,7 +23,6 @@ workflows are available:
 *  :ref:`sup_temp_min`
 *  :ref:`market_price`
 
-
 Indices and tables
 ==================
 

@@ -1,4 +1,5 @@
 .. _market_price:
+
 I want to simulate my network with market-based control
 =======================================================
 

@@ -1,3 +1,5 @@
+.. _ESDL_mapeditor:
+
 ESDL mapeditor
 ====================================================
 The ESDl mapeditor is used as front end GUI for the drawing of the network.

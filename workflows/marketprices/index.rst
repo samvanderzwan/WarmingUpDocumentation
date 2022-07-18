@@ -53,7 +53,7 @@ This tutorial shows the steps to simulate a simple network using
 market-based control.
 
 As this is an advanced tutorial, it is assumed that the other tutorials
-on using the :ref:'ESDLmapeditor'
+on using the :ref:`ESDLmapeditor`
 and the :ref:`CF` are already known.
 
 This tutorial shows the steps to find the answer to the following
@@ -183,11 +183,11 @@ To achieve these results the following workflows and packages are used:
 +---------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 .. |image0| image:: media/image1.png
-   :width: 0.87361in
-   :height: 0.90694in
+   :width: 1.11319in
+   :height: 1.16042in
 .. |image1| image:: media/image2.jpeg
-   :width: 0.87361in
-   :height: 0.90694in
+   :width: 1.11319in
+   :height: 1.16042in
 .. |image2| image:: media/image3.png
    :width: 4.75694in
    :height: 2.25000in

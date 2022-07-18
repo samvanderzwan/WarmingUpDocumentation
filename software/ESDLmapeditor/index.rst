@@ -1,4 +1,4 @@
-.. _ESDL_mapeditor:
+.. _ESDLmapeditor:
 
 ESDL mapeditor
 ====================================================

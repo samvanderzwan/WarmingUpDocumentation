@@ -17,11 +17,13 @@ network — Warming Up Design toolkit 0.3 documentation
 
 To achieve these results the following packages are used:
 
-+------------+-----------------------------------------------------------------------------+
-| |image0|   | Within Computational Framework the topo-optimizer is used.                  |
-+------------+-----------------------------------------------------------------------------+
-| |image1|   | Within the Computational Framework CHESS is used to simulate the network.   |
-+------------+-----------------------------------------------------------------------------+
++------------+-----------------------------------------------------------------------------------+
+| |image0|   | The Computational Framework is used to run the workflows and create scenarios     |
++------------+-----------------------------------------------------------------------------------+
+| |image1|   | Within the Computational Framework CHESS is used to simulate the network.         |
++------------+-----------------------------------------------------------------------------------+
+| |image15|  | Within the Computational Framework the Energy Network Topology Optimizer is used. |
++------------+-----------------------------------------------------------------------------------+
 
 +-----------+------------------------------------------------------------------------------------------------------------------------------------------+
 | \ **1**   | .. rubric:: **How to minimize pipe sizing in the network?**                                                                              |
@@ -187,5 +189,8 @@ To achieve these results the following packages are used:
    :width: 5.25302in
    :height: 5.39692in
 .. |image13| image:: media/image14.png
+   :width: 5.31078in
+   :height: 5.49126in
+.. |image15| image:: media/topo_icon.png
    :width: 5.31078in
    :height: 5.49126in

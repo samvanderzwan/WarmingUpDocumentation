@@ -1,7 +1,7 @@
 .. _topo_optimization:
 
 I want to optimize the pipe routing
-===================================
+=====================================
 
 Tested for version beta 0.4.2 of the WarmingUp Design Toolkit.
 
@@ -10,8 +10,7 @@ tutorial shows the steps to find the answer to the following questions:
 
 1) How to find the optimal pipe routing (and sizing) of the network?
 
-This tutorial builds upon the preceding tutorial topic ‘I want to
-simulate an existing network’, see :ref:`Existing`
+This tutorial builds upon the preceding tutorial topic :ref:`Existing`
 To achieve these results the following packages are used:
 
 +------------+---------------------------------------------------------------------------------+

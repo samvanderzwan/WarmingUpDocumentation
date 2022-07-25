@@ -192,5 +192,5 @@ To achieve these results the following packages are used:
    :width: 5.31078in
    :height: 5.49126in
 .. |image15| image:: media/topo_icon.png
-   :width: 5.31078in
-   :height: 5.49126in
+   :width: 1.11319in
+   :height: 1.16042in

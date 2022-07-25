@@ -13,7 +13,7 @@ workflows are available:
 *  :ref:`Conceptual_design`
 *  :ref:`Existing`
 *  :ref:`diam_opti`
-*  :ref:`topo_opti`
+*  :ref:`topo_optimization`
 *  :ref:`buffer_sizing`
 *  :ref:`sup_temp_min`
 *  :ref:`market_price`

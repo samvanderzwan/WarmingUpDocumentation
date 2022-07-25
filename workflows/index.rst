@@ -8,7 +8,7 @@ Workflows
    conceptual/index
    existing/index
    diaoptimization/index
-   topooptimization/index
+   toporouting/index
    buffersizing/index
    tempminimization/index
    marketprices/index

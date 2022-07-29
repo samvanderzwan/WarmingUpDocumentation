@@ -12,6 +12,7 @@ Workflows
    buffersizing/index
    tempminimization/index
    marketprices/index
+   usingates/index
 
 
 

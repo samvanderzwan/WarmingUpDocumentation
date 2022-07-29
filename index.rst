@@ -17,6 +17,7 @@ workflows are available:
 *  :ref:`buffer_sizing`
 *  :ref:`sup_temp_min`
 *  :ref:`market_price`
+*  :ref:`ates`
 
 Indices and tables
 ==================

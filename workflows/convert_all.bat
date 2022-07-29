@@ -6,7 +6,9 @@ for %%x in (
         existing
         installation
         tempminimization
-        topooptimization
+        marketprices
+	toporouting
+	usingates
        ) do (
          echo folder is %%x
          cd %%x
